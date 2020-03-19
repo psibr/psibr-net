@@ -141,7 +141,7 @@ no = 'Sorry to hear that. Please <a href="https://github.com/psibr/psibr-net/iss
 #        desc = "Discussion and help from your fellow users"
 [[params.links.user]]
 	name ="Twitter"
-	url = "https://twitter.com/aidapsibr"
+	url = "https://twitter.com/psibr"
 	icon = "fab fa-twitter"
         desc = "Follow us on Twitter to get the latest news!"
 #[[params.links.user]]
@@ -216,7 +216,7 @@ cacheControl = "max-age=31536000, no-transform, public"
 gzip = true
 
 [[deployment.matchers]]
-pattern = "^.+\\.(png|jpg)$"
+pattern = "^.+\\.(png|jpg|ico)$"
 cacheControl = "max-age=31536000, no-transform, public"
 gzip = false
 
