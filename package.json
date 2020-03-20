@@ -1,21 +1,21 @@
 {
-  "name": "tech-doc-hugo",
+  "name": "psibr-net-website",
   "version": "0.0.1",
-  "description": "Hugo theme for technical documentation.",
+  "description": "Website for PSIBR and documentation",
   "main": "none.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bep/tech-doc-hugo.git"
+    "url": "git+https://github.com/psibr/psibr-net.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bep/tech-doc-hugo/issues"
+    "url": "https://github.com/psibr/psibr-net/issues"
   },
-  "homepage": "https://github.com/bep/tech-doc-hugo#readme",
+  "homepage": "https://github.com/psibr/psibr-net#readme",
   "dependencies": {},
   "devDependencies": {
     "autoprefixer": "^9.4.6",
